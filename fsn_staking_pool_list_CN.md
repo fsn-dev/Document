@@ -1,3 +1,25 @@
+<style>
+table th:nth-of-type(1){
+width: 10%;
+}
+table th:nth-of-type(2){
+width: 20%
+;
+}
+table th:nth-of-type(3){
+width: 30%;
+}
+table th:nth-of-type(4){
+width: 10%;
+}
+table th:nth-of-type(5){
+width: 10%;
+}
+table th:nth-of-type(6){
+width: 20%;
+}
+</style>
+
 |  矿池名称   | 网址  | 简介  | 手续费  | 最低抵押  | 如何挖矿  |
 |  ----  | ----  |----  |----  |----  |----  |
 | HashQuark  | www.hashquark.io | HashQuark，香港金融科技公司HashKey Group旗下专注于PoS、DPoS等共识机制公链的专业Staking生态服务商，已覆盖Qtum、VET、EOS、Cosmos、IRISnet、IOST、Decred、Tezos、Cybex、ChainX等三十余条知名公链，并在快速生态扩展中。个人用户无需任何设备投入，只要将币存入平台账户，就可以每日获得稳定的Staking收益。同时，HashQuark Open Staking Platform（OSP）已与多个全球领先的数字资产存储和交易平台、投资机构达成合作，为数以千万的数字资产用户和机构投资者提供稳定安全的Staking服务。 | 10% | 1 | https://mp.weixin.qq.com/s/78iBntf9KVdePoF4p6DImA |
