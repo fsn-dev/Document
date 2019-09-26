@@ -1,24 +1,3 @@
-<style>
-table th:nth-of-type(1){
-width: 10%;
-}
-table th:nth-of-type(2){
-width: 20%
-;
-}
-table th:nth-of-type(3){
-width: 30%;
-}
-table th:nth-of-type(4){
-width: 10%;
-}
-table th:nth-of-type(5){
-width: 10%;
-}
-table th:nth-of-type(6){
-width: 20%;
-}
-</style>
 
 |  矿池名称   | 网址  | 简介  | 手续费  | 最低抵押  | 如何挖矿  |
 |  ----  | ----  |----  |----  |----  |----  |
