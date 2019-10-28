@@ -34,11 +34,11 @@ FSN节点支持两种部署方法：
 
 4. 作为后台同步节点开放RPC接口的运行参数如下：
 
-`nohup ./build/bin/efsn --datadir ./node1/ --gcmode=archive --rpc --rpcaddr 0.0.0.0 --rpcapi net,fsn,eth,web3 --rpcport 9001 --rpccorsdomain "*" &`
+`nohup ./build/bin/efsn --datadir ./node1/ --rpc --rpcaddr 0.0.0.0 --rpcapi net,fsn,eth,web3 --rpcport 9001 --rpccorsdomain "*" &`
 
 测试网运行请添加`--testnet`参数。
 
-作为同步节点能够查询所有历史数据需要打开`--gcmode=archive`参数，在770000块高度时占用硬盘空间超过100G，采用此模式需要提前准备服务器存储空间（建议>300G）。非archive模式1G左右，但无法查询一些历史数据。
+作为同步节点能够查询所有历史数据需要打开`--gcmode=archive`参数，在770000块高度时占用硬盘空间超过100G，采用此模式需要提前准备服务器存储空间（建议>300G）。默认运行的非archive模式1G左右，但无法查询一些历史数据。
 
 ## FSN钱包对接
 
