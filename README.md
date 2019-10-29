@@ -8,7 +8,7 @@ Block explorer: https://blocks.fusionnetwork.io/
 
 Node Monitor: https://node.fusionnetwork.io/
 
-Testnet faucet: https://https://fsn.dev/faucet/
+Testnet faucet: https://fsn.dev/faucet/
 
 ## Code
 
