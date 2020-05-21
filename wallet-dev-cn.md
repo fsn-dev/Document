@@ -4,6 +4,12 @@
 
 ## 部署FSN节点
 
+部署环境要求：
+服务器：ubuntu18.04及以上
+CPU：2核及以上
+内存：4G及以上
+硬盘：20G以上
+
 FSN节点支持两种部署方法：
 
 1、docker镜像一键部署，镜像地址：https://hub.docker.com/u/fusionnetwork
