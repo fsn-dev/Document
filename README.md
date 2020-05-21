@@ -1,4 +1,8 @@
-# FSN develop guide
+# FSN development guide
+
+## Assistance
+
+Developer Telegram Chatroom: https://t.me/FsnDevCommunity
 
 ## Tools
 
@@ -33,6 +37,3 @@ Web API Gateway: https://api.fusionnetwork.io/
 Online RPC API(mainnet): https://fsn.dev/api
 
 Online RPC API(testnet): https://testnet.fsn.dev/api
-
-
-
