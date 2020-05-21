@@ -92,4 +92,4 @@ FSN挖矿节点需要注意的惩罚机制：
 
 ## 开发社区
 
-如有开发问题请加入开发社区沟通：https://fsn.dev/group/
+如有开发问题请加入开发社区沟通： https://t.me/FsnDevCommunity
